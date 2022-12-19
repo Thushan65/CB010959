@@ -65,7 +65,6 @@ header{
     color: whitesmoke;
     font-size: 80px;
     margin-top: 80px;
-    font-family: 'Kaushan Script', cursive;
     animation: textup 12s linear infinite;
     transform: translateY(150px);
 }
